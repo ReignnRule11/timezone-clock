@@ -54,7 +54,7 @@ const App = () => {
     <div className="app">
       <header className="app-header">
         <div className="header-content">
-          <h1>🌍 TimezonesClock</h1>
+          <h1>🌍 TimezoneClock</h1>
           <p>Real-time global time display</p>
         </div>
         <div className="header-controls">
