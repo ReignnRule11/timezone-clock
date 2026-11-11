@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Timezone Clock",
+  "short_name": "Timezone Clock",
+  "description": "A live clock for tracking time across multiple time zones.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
