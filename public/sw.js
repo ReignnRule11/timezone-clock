@@ -1,4 +1,4 @@
-const CACHE_NAME = 'timezone-clock-shell-v3';
+const CACHE_NAME = 'timezone-clock-shell-v4';
 const BASE_URL = new URL('./', self.location);
 const APP_ENTRY = new URL('index.html', BASE_URL).href;
 
