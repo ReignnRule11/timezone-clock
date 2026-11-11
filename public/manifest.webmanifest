@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Timezone Clock",
-  "short_name": "Timezone Clock",
+  "name": "TimezoneClock",
+  "short_name": "TimezoneClock",
   "description": "A live clock for tracking time across multiple time zones.",
   "start_url": "./",
   "scope": "./",
